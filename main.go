@@ -12,7 +12,6 @@ const EMPTYSTR string = ""
 
 var opts *Options
 
-
 func main() {
 	args := os.Args[1:]
 
